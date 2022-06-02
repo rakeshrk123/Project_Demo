@@ -1,0 +1,22 @@
+{
+  "name": "project_demo",
+  "version": "1.0.0",
+  "description": "CRUD Opeartion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshrk123/Project_Demo.git"
+  },
+  "author": "Rakesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshrk123/Project_Demo/issues"
+  },
+  "homepage": "https://github.com/rakeshrk123/Project_Demo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
